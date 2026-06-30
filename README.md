@@ -1,11 +1,17 @@
 Cognizant Digital Nurture 5.0 – Deep Skilling Program
 
 Candidate Information
+
 Name: Prachi Yadav
+
 Program: Cognizant Digital Nurture 5.0
+
 Track: Java Full Stack Engineer (React)
+
 Repository Overview
+
 This repository contains my hands-on exercises, practice solutions, learning notes, and implementations completed as part of the Cognizant Digital Nurture 5.0 Deep Skilling Program.
+
 
 The repository is organized module-wise to demonstrate my learning journey and practical understanding of the technologies covered during the program.
 
